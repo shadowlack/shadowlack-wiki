@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia",
+			"Ата",
+			"DixonD"
+		]
+	},
+	"vector-beta-feature-typography-message": "Оновити оформлення",
+	"vectorbeta-desc": "Оновлення оформлення теми «Векторна» з використанням бета-функціоналу",
+	"vector-beta-feature-typography-description": "Оновлює оформлення теми «Векторна», щоб покращити чіткість, доступність і однорідність",
+	"vector-beta-feature-compact-personal-bar-message": "Компактна персональна смуга",
+	"vector-beta-feature-compact-personal-bar-description": "Чіткий і організований доступ до списку спостереження, сповіщень та сторінки обговорення. Спрощена шапка сайту з доступом до інструментів, коли вони вам потрібні.",
+	"vector-beta-feature-fixedheader-message": "Фіксована шапка",
+	"vector-beta-feature-fixedheader-description": "Перетворює заголовок теми оформлення «Векторний» у фіксований заголовок.",
+	"vector-beta-compact-personal-bar-privacy": "Конфіденційність"
+}

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"F. Cosoleto",
+			"Una giornata uggiosa '94"
+		]
+	},
+	"extensionname-collapsiblevector": "CollapsibleVector",
+	"collapsiblevector": "Miglioramenti all'interfaccia utente per Vector",
+	"collapsiblevector-desc": "Potenzia l'interfaccia utente quando si usa la skin Vector",
+	"collapsiblevector-collapsiblenav-preference": "Abilita menù di navigazione nascondibile per la skin Vector",
+	"collapsiblevector-collapsiblenav-more": "Altre lingue",
+	"collapsiblevector-noexperiments-preference": "Escludimi dalle funzionalità sperimentali"
+}

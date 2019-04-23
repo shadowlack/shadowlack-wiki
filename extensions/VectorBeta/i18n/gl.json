@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño",
+			"Elisardojm",
+			"Banjo"
+		]
+	},
+	"vector-beta-feature-typography-message": "Actualización tipográfica",
+	"vectorbeta-desc": "Actualización tipográfica da aparencia Vector mediante as características experimentais",
+	"vector-beta-feature-typography-description": "Actualiza a tipografía da aparencia Vector para mellorar a lectura, o acceso e a coherencia.",
+	"vector-beta-feature-compact-personal-bar-message": "Barra persoal compacta",
+	"vector-beta-feature-compact-personal-bar-description": "Acceso limpo e organizado á lista de seguimento, as Notificacións e a páxina de conversa. Unha cabeceira de sitio simplificada con acceso a ferramentas cando as necesite.",
+	"vector-beta-feature-fixedheader-message": "Cabeceira fixa",
+	"vector-beta-feature-fixedheader-description": "Convirte a cabeceira da aparencia Vector predeterminada nunha cabeceira fixa.",
+	"vector-beta-feature-form-refresh-message": "Estandarizar e refrescar a interface",
+	"vector-beta-compact-personal-bar-privacy": "Privacidade"
+}

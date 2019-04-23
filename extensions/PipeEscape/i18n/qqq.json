@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fryed-peach",
+			"Purodha"
+		]
+	},
+	"pipeescape-desc": "{{desc|name=[[:mw:Extension:Pipe_Escape|Pipe_Escape]]}}",
+	"pipeescape-extensionname": "{{optional}} The name for this extension."
+}
